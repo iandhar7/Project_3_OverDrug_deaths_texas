@@ -1,0 +1,234 @@
+﻿State,Drug_Type,County,County_Code,Five_Year_Age_Groups,Five_Year_Age_Groups_Code,Gender,Gender_Code,MCD_Drug_Alcohol_Induced_Cause,MCD_Drug_Alcohol_Induced_Cause_Code,Deaths,Population,Crude_Rate
+Texas,Psychotism,"Dallas County , TX",48113,20-24 years,20-24,Male,M,All other non-drug and non-alcohol causes,O9,13,596556,Unreliable
+Texas,Psychotism,"Dallas County , TX",48113,25-29 years,25-29,Female,F,All other non-drug and non-alcohol causes,O9,20,638038,3.1
+Texas,Psychotism,"Dallas County , TX",48113,25-29 years,25-29,Male,M,All other non-drug and non-alcohol causes,O9,22,632848,Unreliable
+Texas,Psychotism,"Dallas County , TX",48113,30-34 years,30-34,Female,F,All other non-drug and non-alcohol causes,O9,20,573032,3.5
+Texas,Psychotism,"Dallas County , TX",48113,30-34 years,30-34,Male,M,All other non-drug and non-alcohol causes,O9,34,578253,5.9
+Texas,Psychotism,"Dallas County , TX",48113,35-39 years,35-39,Female,F,All other non-drug and non-alcohol causes,O9,45,536142,4.3
+Texas,Psychotism,"Dallas County , TX",48113,35-39 years,35-39,Male,M,All other non-drug and non-alcohol causes,O9,46,531635,8.7
+Texas,Psychotism,"Dallas County , TX",48113,40-44 years,40-44,Female,F,All other non-drug and non-alcohol causes,O9,16,528401,Unreliable
+Texas,Psychotism,"Dallas County , TX",48113,40-44 years,40-44,Male,M,All other non-drug and non-alcohol causes,O9,44,514624,8.5
+Texas,Psychotism,"Dallas County , TX",48113,45-49 years,45-49,Female,F,All other non-drug and non-alcohol causes,O9,12,528845,4.5
+Texas,Psychotism,"Dallas County , TX",48113,45-49 years,45-49,Male,M,All other non-drug and non-alcohol causes,O9,46,508455,9
+Texas,Psychotism,"Dallas County , TX",48113,50-54 years,50-54,Female,F,All other non-drug and non-alcohol causes,O9,23,521309,4.4
+Texas,Psychotism,"Dallas County , TX",48113,50-54 years,50-54,Male,M,All other non-drug and non-alcohol causes,O9,65,491285,8.8
+Texas,Psychotism,"Dallas County , TX",48113,55-59 years,55-59,Female,F,All other non-drug and non-alcohol causes,O9,10,483359,Unreliable
+Texas,Psychotism,"Dallas County , TX",48113,55-59 years,55-59,Male,M,All other non-drug and non-alcohol causes,O9,23,444687,8.5
+Texas,Psychotism,"Dallas County , TX",48113,60-64 years ,60-64,Female,F,All other non-drug and non-alcohol causes,O9,44,410172,Unreliable
+Texas,Psychotism,"Dallas County , TX",48113,60-64 years ,60-64,Male,M,All other non-drug and non-alcohol causes,O9,30,366933,8.2
+Texas,Psychotism,"Dallas County , TX",48113,65-69 years,65-69,Male,M,All other non-drug and non-alcohol causes,O9,12,281534,Unreliable
+Texas,Psychotism,"Houston County , TX",48361,20-24 years,20-24,Male,M,All other non-drug and non-alcohol causes,O9,17,460429,Unreliable
+Texas,Psychotism,"Houston County , TX",48361,25-29 years,25-29,Female,F,All other non-drug and non-alcohol causes,O9,16,492442,Unreliable
+Texas,Psychotism,"Houston County , TX",48361,25-29 years,25-29,Male,M,All other non-drug and non-alcohol causes,O9,22,488393,4.1
+Texas,Psychotism,"Houston County , TX",48361,30-34 years,30-34,Female,F,All other non-drug and non-alcohol causes,O9,19,471495,Unreliable
+Texas,Psychotism,"Houston County , TX",48361,30-34 years,30-34,Male,M,All other non-drug and non-alcohol causes,O9,34,469221,6.2
+Texas,Psychotism,"Houston County , TX",48361,35-39 years,35-39,Female,F,All other non-drug and non-alcohol causes,O9,16,455351,Unreliable
+Texas,Psychotism,"Houston County , TX",48361,35-39 years,35-39,Male,M,All other non-drug and non-alcohol causes,O9,40,452201,8.8
+Texas,Psychotism,"Houston County , TX",48361,40-44 years,40-44,Female,F,All other non-drug and non-alcohol causes,O9,55,456023,4.6
+Texas,Psychotism,"Houston County , TX",48361,40-44 years,40-44,Male,M,All other non-drug and non-alcohol causes,O9,35,446141,7.8
+Texas,Psychotism,"Houston County , TX",48361,45-49 years,45-49,Female,F,All other non-drug and non-alcohol causes,O9,33,457422,Unreliable
+Texas,Psychotism,"Houston County , TX",48361,45-49 years,45-49,Male,M,All other non-drug and non-alcohol causes,O9,47,440576,10.7
+Texas,Psychotism,"Houston County , TX",48361,50-54 years,50-54,Female,F,All other non-drug and non-alcohol causes,O9,75,444794,4.9
+Texas,Psychotism,"Houston County , TX",48361,50-54 years,50-54,Male,M,All other non-drug and non-alcohol causes,O9,39,417664,9.3
+Texas,Psychotism,"Houston County , TX",48361,55-59 years,55-59,Female,F,All other non-drug and non-alcohol causes,O9,12,407877,Unreliable
+Texas,Psychotism,"Houston County , TX",48361,55-59 years,55-59,Male,M,All other non-drug and non-alcohol causes,O9,42,374297,11.2
+Texas,Psychotism,"Houston County , TX",48361,60-64 years ,60-64,Female,F,All other non-drug and non-alcohol causes,O9,14,346351,Unreliable
+Texas,Psychotism,"Houston County , TX",48361,60-64 years ,60-64,Male,M,All other non-drug and non-alcohol causes,O9,23,306029,6.9
+Texas,Cocaine,"Dallas County , TX",48113,20-24 years,20-24,Male,M,All other non-drug and non-alcohol causes,O9,14,596556,Unreliable
+Texas,Cocaine,"Dallas County , TX",48113,25-29 years,25-29,Male,M,All other non-drug and non-alcohol causes,O9,18,632848,Unreliable
+Texas,Cocaine,"Dallas County , TX",48113,30-34 years,30-34,Male,M,All other non-drug and non-alcohol causes,O9,43,578253,Unreliable
+Texas,Cocaine,"Dallas County , TX",48113,35-39 years,35-39,Female,F,All other non-drug and non-alcohol causes,O9,10,536142,Unreliable
+Texas,Cocaine,"Dallas County , TX",48113,35-39 years,35-39,Male,M,All other non-drug and non-alcohol causes,O9,76,531635,4.5
+Texas,Cocaine,"Dallas County , TX",48113,40-44 years,40-44,Female,F,All other non-drug and non-alcohol causes,O9,17,528401,Unreliable
+Texas,Cocaine,"Dallas County , TX",48113,40-44 years,40-44,Male,M,All other non-drug and non-alcohol causes,O9,45,514624,4.3
+Texas,Cocaine,"Dallas County , TX",48113,45-49 years,45-49,Female,F,All other non-drug and non-alcohol causes,O9,11,528845,Unreliable
+Texas,Cocaine,"Dallas County , TX",48113,45-49 years,45-49,Male,M,All other non-drug and non-alcohol causes,O9,34,508455,5.5
+Texas,Cocaine,"Dallas County , TX",48113,50-54 years,50-54,Female,F,All other non-drug and non-alcohol causes,O9,16,521309,Unreliable
+Texas,Cocaine,"Dallas County , TX",48113,50-54 years,50-54,Male,M,All other non-drug and non-alcohol causes,O9,54,491285,4.5
+Texas,Cocaine,"Dallas County , TX",48113,55-59 years,55-59,Female,F,All other non-drug and non-alcohol causes,O9,44,483359,Unreliable
+Texas,Cocaine,"Dallas County , TX",48113,55-59 years,55-59,Male,M,All other non-drug and non-alcohol causes,O9,23,444687,6.5
+Texas,Cocaine,"Dallas County , TX",48113,65-69 years,65-69,Male,M,All other non-drug and non-alcohol causes,O9,12,281534,Unreliable
+Texas,Cocaine,"Houston County , TX",48361,20-24 years,20-24,Male,M,All other non-drug and non-alcohol causes,O9,15,460429,Unreliable
+Texas,Cocaine,"Houston County , TX",48361,25-29 years,25-29,Male,M,All other non-drug and non-alcohol causes,O9,38,488393,Unreliable
+Texas,Cocaine,"Houston County , TX",48361,30-34 years,30-34,Male,M,All other non-drug and non-alcohol causes,O9,17,469221,Unreliable
+Texas,Cocaine,"Houston County , TX",48361,35-39 years,35-39,Male,M,All other non-drug and non-alcohol causes,O9,15,452201,Unreliable
+Texas,Cocaine,"Houston County , TX",48361,40-44 years,40-44,Male,M,All other non-drug and non-alcohol causes,O9,38,446141,Unreliable
+Texas,Cocaine,"Houston County , TX",48361,45-49 years,45-49,Female,F,All other non-drug and non-alcohol causes,O9,14,457422,Unreliable
+Texas,Cocaine,"Houston County , TX",48361,45-49 years,45-49,Male,M,All other non-drug and non-alcohol causes,O9,46,440576,4.8
+Texas,Cocaine,"Houston County , TX",48361,50-54 years,50-54,Female,F,All other non-drug and non-alcohol causes,O9,10,444794,Unreliable
+Texas,Cocaine,"Houston County , TX",48361,50-54 years,50-54,Male,M,All other non-drug and non-alcohol causes,O9,26,417664,Unreliable
+Texas,Cocaine,"Houston County , TX",48361,55-59 years,55-59,Male,M,All other non-drug and non-alcohol causes,O9,14,374297,Unreliable
+Texas,Cocaine,"Houston County , TX",48361,60-64 years ,60-64,Male,M,All other non-drug and non-alcohol causes,O9,31,306029,Unreliable
+Texas,Benzo,"San Patricio County , TX",48409,20-24 years,20-24,Male,M,All other non-drug and non-alcohol causes,O9,11,319838,Unreliable
+Texas,Benzo,"San Patricio County , TX",48409,25-29 years,25-29,Male,M,All other non-drug and non-alcohol causes,O9,12,219961,Unreliable
+Texas,Benzo,"Dallas County , TX",48113,20-24 years,20-24,Male,M,All other non-drug and non-alcohol causes,O9,29,596556,4
+Texas,Benzo,"Dallas County , TX",48113,25-29 years,25-29,Female,F,All other non-drug and non-alcohol causes,O9,55,638038,Unreliable
+Texas,Benzo,"Dallas County , TX",48113,25-29 years,25-29,Male,M,All other non-drug and non-alcohol causes,O9,12,632848,3.3
+Texas,Benzo,"Dallas County , TX",48113,30-34 years,30-34,Female,F,All other non-drug and non-alcohol causes,O9,16,573032,Unreliable
+Texas,Benzo,"Dallas County , TX",48113,30-34 years,30-34,Male,M,All other non-drug and non-alcohol causes,O9,24,578253,3.5
+Texas,Benzo,"Dallas County , TX",48113,35-39 years,35-39,Female,F,All other non-drug and non-alcohol causes,O9,16,536142,Unreliable
+Texas,Benzo,"Dallas County , TX",48113,35-39 years,35-39,Male,M,All other non-drug and non-alcohol causes,O9,34,531635,4.1
+Texas,Benzo,"Dallas County , TX",48113,40-44 years,40-44,Female,F,All other non-drug and non-alcohol causes,O9,16,528401,Unreliable
+Texas,Benzo,"Dallas County , TX",48113,40-44 years,40-44,Male,M,All other non-drug and non-alcohol causes,O9,37,514624,4.7
+Texas,Benzo,"Dallas County , TX",48113,45-49 years,45-49,Female,F,All other non-drug and non-alcohol causes,O9,30,528845,5.7
+Texas,Benzo,"Dallas County , TX",48113,45-49 years,45-49,Male,M,All other non-drug and non-alcohol causes,O9,41,508455,Unreliable
+Texas,Benzo,"Dallas County , TX",48113,50-54 years,50-54,Female,F,All other non-drug and non-alcohol causes,O9,24,521309,4.6
+Texas,Benzo,"Dallas County , TX",48113,50-54 years,50-54,Male,M,All other non-drug and non-alcohol causes,O9,42,491285,4.5
+Texas,Benzo,"Dallas County , TX",48113,55-59 years,55-59,Female,F,All other non-drug and non-alcohol causes,O9,11,483359,Unreliable
+Texas,Benzo,"Dallas County , TX",48113,55-59 years,55-59,Male,M,All other non-drug and non-alcohol causes,O9,57,444687,Unreliable
+Texas,Benzo,"Houston County , TX",48361,15-19 years,15-19,Male,M,All other non-drug and non-alcohol causes,O9,22,459068,4.8
+Texas,Benzo,"Houston County , TX",48361,20-24 years,20-24,Female,F,All other non-drug and non-alcohol causes,O9,36,460326,Unreliable
+Texas,Benzo,"Houston County , TX",48361,20-24 years,20-24,Male,M,All other non-drug and non-alcohol causes,O9,41,460429,8.9
+Texas,Benzo,"Houston County , TX",48361,25-29 years,25-29,Female,F,All other non-drug and non-alcohol causes,O9,29,492442,Unreliable
+Texas,Benzo,"Houston County , TX",48361,25-29 years,25-29,Male,M,All other non-drug and non-alcohol causes,O9,42,488393,8.6
+Texas,Benzo,"Houston County , TX",48361,30-34 years,30-34,Female,F,All other non-drug and non-alcohol causes,O9,28,471495,Unreliable
+Texas,Benzo,"Houston County , TX",48361,30-34 years,30-34,Male,M,All other non-drug and non-alcohol causes,O9,38,469221,8.1
+Texas,Benzo,"Houston County , TX",48361,35-39 years,35-39,Female,F,All other non-drug and non-alcohol causes,O9,26,455351,4.6
+Texas,Benzo,"Houston County , TX",48361,35-39 years,35-39,Male,M,All other non-drug and non-alcohol causes,O9,35,452201,7.7
+Texas,Benzo,"Houston County , TX",48361,40-44 years,40-44,Female,F,All other non-drug and non-alcohol causes,O9,48,456023,5.9
+Texas,Benzo,"Houston County , TX",48361,40-44 years,40-44,Male,M,All other non-drug and non-alcohol causes,O9,19,446141,6.9
+Texas,Benzo,"Houston County , TX",48361,45-49 years,45-49,Female,F,All other non-drug and non-alcohol causes,O9,35,457422,7.7
+Texas,Benzo,"Houston County , TX",48361,45-49 years,45-49,Male,M,All other non-drug and non-alcohol causes,O9,16,440576,7.9
+Texas,Benzo,"Houston County , TX",48361,50-54 years,50-54,Female,F,All other non-drug and non-alcohol causes,O9,32,444794,7.2
+Texas,Benzo,"Houston County , TX",48361,50-54 years,50-54,Male,M,All other non-drug and non-alcohol causes,O9,20,417664,7.7
+Texas,Benzo,"Houston County , TX",48361,55-59 years,55-59,Female,F,All other non-drug and non-alcohol causes,O9,17,407877,Unreliable
+Texas,Benzo,"Houston County , TX",48361,55-59 years,55-59,Male,M,All other non-drug and non-alcohol causes,O9,22,374297,7.2
+Texas,Heroin,"San Patricio County , TX",48409,20-24 years,20-24,Male,M,All other non-drug and non-alcohol causes,O9,12,319838,Unreliable
+Texas,Heroin,"Dallas County , TX",48113,20-24 years,20-24,Male,M,All other non-drug and non-alcohol causes,O9,16,596556,Unreliable
+Texas,Heroin,"Dallas County , TX",48113,25-29 years,25-29,Male,M,All other non-drug and non-alcohol causes,O9,32,632848,5.1
+Texas,Heroin,"Dallas County , TX",48113,30-34 years,30-34,Male,M,All other non-drug and non-alcohol causes,O9,15,578253,Unreliable
+Texas,Heroin,"Dallas County , TX",48113,35-39 years,35-39,Male,M,All other non-drug and non-alcohol causes,O9,14,531635,Unreliable
+Texas,Heroin,"Dallas County , TX",48113,40-44 years,40-44,Male,M,All other non-drug and non-alcohol causes,O9,18,514624,Unreliable
+Texas,Heroin,"Houston County , TX",48361,20-24 years,20-24,Male,M,All other non-drug and non-alcohol causes,O9,19,460429,Unreliable
+Texas,Heroin,"Houston County , TX",48361,25-29 years,25-29,Male,M,All other non-drug and non-alcohol causes,O9,26,488393,5.3
+Texas,Heroin,"Houston County , TX",48361,30-34 years,30-34,Male,M,All other non-drug and non-alcohol causes,O9,34,469221,7.2
+Texas,Heroin,"Houston County , TX",48361,35-39 years,35-39,Male,M,All other non-drug and non-alcohol causes,O9,18,452201,Unreliable
+Texas,Heroin,"Houston County , TX",48361,40-44 years,40-44,Male,M,All other non-drug and non-alcohol causes,O9,15,446141,Unreliable
+Texas,Heroin,"Houston County , TX",48361,45-49 years,45-49,Male,M,All other non-drug and non-alcohol causes,O9,22,440576,Unreliable
+Texas,Heroin,"Houston County , TX",48361,55-59 years,55-59,Male,M,All other non-drug and non-alcohol causes,O9,51,374297,Unreliable
+Texas,Other Opioids,"Limestone County , TX",48293,40-44 years,40-44,Female,F,All other non-drug and non-alcohol causes,O9,28,93323,Unreliable
+Texas,Other Opioids,"Limestone County , TX",48293,45-49 years,45-49,Male,M,All other non-drug and non-alcohol causes,O9,10,91308,Unreliable
+Texas,Other Opioids,"San Patricio County , TX",48409,20-24 years,20-24,Male,M,All other non-drug and non-alcohol causes,O9,19,319838,Unreliable
+Texas,Other Opioids,"San Patricio County , TX",48409,25-29 years,25-29,Male,M,All other non-drug and non-alcohol causes,O9,35,219961,Unreliable
+Texas,Other Opioids,"San Patricio County , TX",48409,30-34 years,30-34,Female,F,All other non-drug and non-alcohol causes,O9,16,190735,Unreliable
+Texas,Other Opioids,"San Patricio County , TX",48409,30-34 years,30-34,Male,M,All other non-drug and non-alcohol causes,O9,32,202760,Unreliable
+Texas,Other Opioids,"San Patricio County , TX",48409,35-39 years,35-39,Male,M,All other non-drug and non-alcohol causes,O9,20,191491,Unreliable
+Texas,Other Opioids,"San Patricio County , TX",48409,40-44 years,40-44,Female,F,All other non-drug and non-alcohol causes,O9,17,181532,11.6
+Texas,Other Opioids,"San Patricio County , TX",48409,40-44 years,40-44,Male,M,All other non-drug and non-alcohol causes,O9,22,182940,Unreliable
+Texas,Other Opioids,"San Patricio County , TX",48409,45-49 years,45-49,Female,F,All other non-drug and non-alcohol causes,O9,12,179656,Unreliable
+Texas,Other Opioids,"San Patricio County , TX",48409,45-49 years,45-49,Male,M,All other non-drug and non-alcohol causes,O9,16,179032,Unreliable
+Texas,Other Opioids,"San Patricio County , TX",48409,50-54 years,50-54,Female,F,All other non-drug and non-alcohol causes,O9,32,174146,13.2
+Texas,Other Opioids,"San Patricio County , TX",48409,50-54 years,50-54,Male,M,All other non-drug and non-alcohol causes,O9,15,169281,Unreliable
+Texas,Other Opioids,"San Patricio County , TX",48409,55-59 years,55-59,Female,F,All other non-drug and non-alcohol causes,O9,14,160175,Unreliable
+Texas,Other Opioids,"Hutchinson County , TX",48233,25-29 years,25-29,Male,M,All other non-drug and non-alcohol causes,O9,18,43559,Unreliable
+Texas,Other Opioids,"Hutchinson County , TX",48233,35-39 years,35-39,Male,M,All other non-drug and non-alcohol causes,O9,19,47895,Unreliable
+Texas,Other Opioids,"Hutchinson County , TX",48233,45-49 years,45-49,Female,F,All other non-drug and non-alcohol causes,O9,35,54913,Unreliable
+Texas,Other Opioids,"Hansford County , TX",48195,40-44 years,40-44,Female,F,All other non-drug and non-alcohol causes,O9,16,50501,Unreliable
+Texas,Other Opioids,"Hansford County , TX",48195,40-44 years,40-44,Male,M,All other non-drug and non-alcohol causes,O9,32,48632,Unreliable
+Texas,Other Opioids,"Hansford County , TX",48195,45-49 years,45-49,Female,F,All other non-drug and non-alcohol causes,O9,20,51648,Unreliable
+Texas,Other Opioids,"Hansford County , TX",48195,45-49 years,45-49,Male,M,All other non-drug and non-alcohol causes,O9,17,50257,Unreliable
+Texas,Other Opioids,"Hansford County , TX",48195,50-54 years,50-54,Female,F,All other non-drug and non-alcohol causes,O9,22,51250,Unreliable
+Texas,Other Opioids,"Hansford County , TX",48195,50-54 years,50-54,Male,M,All other non-drug and non-alcohol causes,O9,12,49878,Unreliable
+Texas,Other Opioids,"Hansford County , TX",48195,55-59 years,55-59,Male,M,All other non-drug and non-alcohol causes,O9,16,46624,Unreliable
+Texas,Other Opioids,"Dallas County , TX",48113,15-19 years,15-19,Male,M,All other non-drug and non-alcohol causes,O9,32,538436,Unreliable
+Texas,Other Opioids,"Dallas County , TX",48113,20-24 years,20-24,Female,F,All other non-drug and non-alcohol causes,O9,15,597199,Unreliable
+Texas,Other Opioids,"Dallas County , TX",48113,20-24 years,20-24,Male,M,All other non-drug and non-alcohol causes,O9,14,596556,6.9
+Texas,Other Opioids,"Dallas County , TX",48113,25-29 years,25-29,Female,F,All other non-drug and non-alcohol causes,O9,18,638038,3.4
+Texas,Other Opioids,"Dallas County , TX",48113,25-29 years,25-29,Male,M,All other non-drug and non-alcohol causes,O9,19,632848,6.2
+Texas,Other Opioids,"Dallas County , TX",48113,30-34 years,30-34,Female,F,All other non-drug and non-alcohol causes,O9,26,573032,5.1
+Texas,Other Opioids,"Dallas County , TX",48113,30-34 years,30-34,Male,M,All other non-drug and non-alcohol causes,O9,34,578253,5.4
+Texas,Other Opioids,"Dallas County , TX",48113,35-39 years,35-39,Female,F,All other non-drug and non-alcohol causes,O9,18,536142,8.4
+Texas,Other Opioids,"Dallas County , TX",48113,35-39 years,35-39,Male,M,All other non-drug and non-alcohol causes,O9,44,531635,7.1
+Texas,Other Opioids,"Dallas County , TX",48113,40-44 years,40-44,Female,F,All other non-drug and non-alcohol causes,O9,22,528401,9.7
+Texas,Other Opioids,"Dallas County , TX",48113,40-44 years,40-44,Male,M,All other non-drug and non-alcohol causes,O9,53,514624,10.3
+Texas,Other Opioids,"Dallas County , TX",48113,45-49 years,45-49,Female,F,All other non-drug and non-alcohol causes,O9,65,528845,12.3
+Texas,Other Opioids,"Dallas County , TX",48113,45-49 years,45-49,Male,M,All other non-drug and non-alcohol causes,O9,58,508455,11.4
+Texas,Other Opioids,"Dallas County , TX",48113,50-54 years,50-54,Female,F,All other non-drug and non-alcohol causes,O9,64,521309,12.3
+Texas,Other Opioids,"Dallas County , TX",48113,50-54 years,50-54,Male,M,All other non-drug and non-alcohol causes,O9,66,491285,13.4
+Texas,Other Opioids,"Dallas County , TX",48113,55-59 years,55-59,Female,F,All other non-drug and non-alcohol causes,O9,31,483359,6.4
+Texas,Other Opioids,"Dallas County , TX",48113,55-59 years,55-59,Male,M,All other non-drug and non-alcohol causes,O9,53,444687,11.9
+Texas,Other Opioids,"Dallas County , TX",48113,60-64 years ,60-64,Female,F,All other non-drug and non-alcohol causes,O9,25,410172,6.1
+Texas,Other Opioids,"Dallas County , TX",48113,60-64 years ,60-64,Male,M,All other non-drug and non-alcohol causes,O9,19,366933,Unreliable
+Texas,Other Opioids,"Morris County , TX",48343,40-44 years,40-44,Male,M,All other non-drug and non-alcohol causes,O9,35,33828,Unreliable
+Texas,Other Opioids,"Newton County , TX",48351,45-49 years,45-49,Male,M,All other non-drug and non-alcohol causes,O9,16,48318,Unreliable
+Texas,Other Opioids,"Newton County , TX",48351,50-54 years,50-54,Female,F,All other non-drug and non-alcohol causes,O9,32,51526,Unreliable
+Texas,Other Opioids,"Dawson County , TX",48115,40-44 years,40-44,Male,M,All other non-drug and non-alcohol causes,O9,20,29556,Unreliable
+Texas,Other Opioids,"Houston County , TX",48361,15-19 years,15-19,Male,M,All other non-drug and non-alcohol causes,O9,17,459068,4.4
+Texas,Other Opioids,"Houston County , TX",48361,20-24 years,20-24,Male,M,All other non-drug and non-alcohol causes,O9,22,460429,8.9
+Texas,Other Opioids,"Houston County , TX",48361,25-29 years,25-29,Female,F,All other non-drug and non-alcohol causes,O9,49,492442,4.5
+Texas,Other Opioids,"Houston County , TX",48361,25-29 years,25-29,Male,M,All other non-drug and non-alcohol causes,O9,16,488393,10.6
+Texas,Other Opioids,"Houston County , TX",48361,30-34 years,30-34,Female,F,All other non-drug and non-alcohol causes,O9,32,471495,7
+Texas,Other Opioids,"Houston County , TX",48361,30-34 years,30-34,Male,M,All other non-drug and non-alcohol causes,O9,15,469221,11.1
+Texas,Other Opioids,"Houston County , TX",48361,35-39 years,35-39,Female,F,All other non-drug and non-alcohol causes,O9,14,455351,8.1
+Texas,Other Opioids,"Houston County , TX",48361,35-39 years,35-39,Male,M,All other non-drug and non-alcohol causes,O9,18,452201,13
+Texas,Other Opioids,"Houston County , TX",48361,40-44 years,40-44,Female,F,All other non-drug and non-alcohol causes,O9,19,456023,11.6
+Texas,Other Opioids,"Houston County , TX",48361,40-44 years,40-44,Male,M,All other non-drug and non-alcohol causes,O9,26,446141,11
+Texas,Other Opioids,"Houston County , TX",48361,45-49 years,45-49,Female,F,All other non-drug and non-alcohol causes,O9,34,457422,11.4
+Texas,Other Opioids,"Houston County , TX",48361,45-49 years,45-49,Male,M,All other non-drug and non-alcohol causes,O9,18,440576,14.1
+Texas,Other Opioids,"Houston County , TX",48361,50-54 years,50-54,Female,F,All other non-drug and non-alcohol causes,O9,15,444794,13.3
+Texas,Other Opioids,"Houston County , TX",48361,50-54 years,50-54,Male,M,All other non-drug and non-alcohol causes,O9,22,417664,12.2
+Texas,Other Opioids,"Houston County , TX",48361,55-59 years,55-59,Female,F,All other non-drug and non-alcohol causes,O9,43,407877,10.5
+Texas,Other Opioids,"Houston County , TX",48361,55-59 years,55-59,Male,M,All other non-drug and non-alcohol causes,O9,47,374297,12.6
+Texas,Other Opioids,"Houston County , TX",48361,60-64 years ,60-64,Female,F,All other non-drug and non-alcohol causes,O9,31,346351,9
+Texas,Other Opioids,"Houston County , TX",48361,60-64 years ,60-64,Male,M,All other non-drug and non-alcohol causes,O9,19,306029,Unreliable
+Texas,Other Opioids,"Houston County , TX",48361,65-69 years,65-69,Female,F,All other non-drug and non-alcohol causes,O9,35,280174,Unreliable
+Texas,Other Opioids,"Delta County , TX",48119,20-24 years,20-24,Male,M,All other non-drug and non-alcohol causes,O9,16,41069,Unreliable
+Texas,Other Opioids,"Delta County , TX",48119,35-39 years,35-39,Male,M,All other non-drug and non-alcohol causes,O9,32,53632,Unreliable
+Texas,Other Opioids,"Delta County , TX",48119,45-49 years,45-49,Female,F,All other non-drug and non-alcohol causes,O9,20,54922,Unreliable
+Texas,Other Opioids,"Delta County , TX",48119,50-54 years,50-54,Female,F,All other non-drug and non-alcohol causes,O9,17,54848,Unreliable
+Texas,Other Synthetics,"Dallas County , TX",48113,20-24 years,20-24,Male,M,All other non-drug and non-alcohol causes,O9,22,596556,Unreliable
+Texas,Other Synthetics,"Dallas County , TX",48113,25-29 years,25-29,Male,M,All other non-drug and non-alcohol causes,O9,12,632848,Unreliable
+Texas,Other Synthetics,"Dallas County , TX",48113,30-34 years,30-34,Female,F,All other non-drug and non-alcohol causes,O9,16,573032,Unreliable
+Texas,Other Synthetics,"Dallas County , TX",48113,30-34 years,30-34,Male,M,All other non-drug and non-alcohol causes,O9,32,578253,Unreliable
+Texas,Other Synthetics,"Dallas County , TX",48113,35-39 years,35-39,Female,F,All other non-drug and non-alcohol causes,O9,15,536142,Unreliable
+Texas,Other Synthetics,"Dallas County , TX",48113,35-39 years,35-39,Male,M,All other non-drug and non-alcohol causes,O9,38,531635,Unreliable
+Texas,Other Synthetics,"Dallas County , TX",48113,40-44 years,40-44,Female,F,All other non-drug and non-alcohol causes,O9,18,528401,Unreliable
+Texas,Other Synthetics,"Dallas County , TX",48113,40-44 years,40-44,Male,M,All other non-drug and non-alcohol causes,O9,19,514624,Unreliable
+Texas,Other Synthetics,"Dallas County , TX",48113,45-49 years,45-49,Female,F,All other non-drug and non-alcohol causes,O9,26,528845,Unreliable
+Texas,Other Synthetics,"Dallas County , TX",48113,45-49 years,45-49,Male,M,All other non-drug and non-alcohol causes,O9,34,508455,Unreliable
+Texas,Other Synthetics,"Dallas County , TX",48113,50-54 years,50-54,Female,F,All other non-drug and non-alcohol causes,O9,18,521309,3.8
+Texas,Other Synthetics,"Dallas County , TX",48113,55-59 years,55-59,Male,M,All other non-drug and non-alcohol causes,O9,15,444687,Unreliable
+Texas,Other Synthetics,"Dallas County , TX",48113,60-64 years ,60-64,Female,F,All other non-drug and non-alcohol causes,O9,22,410172,Unreliable
+Texas,Other Synthetics,"Houston County , TX",48361,20-24 years,20-24,Male,M,All other non-drug and non-alcohol causes,O9,15,460429,Unreliable
+Texas,Other Synthetics,"Houston County , TX",48361,25-29 years,25-29,Male,M,All other non-drug and non-alcohol causes,O9,20,488393,4.1
+Texas,Other Synthetics,"Houston County , TX",48361,30-34 years,30-34,Female,F,All other non-drug and non-alcohol causes,O9,12,471495,Unreliable
+Texas,Other Synthetics,"Houston County , TX",48361,30-34 years,30-34,Male,M,All other non-drug and non-alcohol causes,O9,21,469221,4.5
+Texas,Other Synthetics,"Houston County , TX",48361,35-39 years,35-39,Male,M,All other non-drug and non-alcohol causes,O9,19,452201,Unreliable
+Texas,Other Synthetics,"Houston County , TX",48361,40-44 years,40-44,Female,F,All other non-drug and non-alcohol causes,O9,51,456023,Unreliable
+Texas,Other Synthetics,"Houston County , TX",48361,40-44 years,40-44,Male,M,All other non-drug and non-alcohol causes,O9,19,446141,Unreliable
+Texas,Other Synthetics,"Houston County , TX",48361,45-49 years,45-49,Female,F,All other non-drug and non-alcohol causes,O9,35,457422,Unreliable
+Texas,Other Synthetics,"Houston County , TX",48361,45-49 years,45-49,Male,M,All other non-drug and non-alcohol causes,O9,16,440576,5.2
+Texas,Other Synthetics,"Houston County , TX",48361,50-54 years,50-54,Female,F,All other non-drug and non-alcohol causes,O9,32,444794,4.9
+Texas,Other Synthetics,"Houston County , TX",48361,50-54 years,50-54,Male,M,All other non-drug and non-alcohol causes,O9,20,417664,Unreliable
+Texas,Other Synthetics,"Houston County , TX",48361,55-59 years,55-59,Female,F,All other non-drug and non-alcohol causes,O9,17,407877,5.4
+Texas,Other Synthetics,"Houston County , TX",48361,55-59 years,55-59,Male,M,All other non-drug and non-alcohol causes,O9,22,374297,Unreliable
+Texas,Other Synthetics,"Houston County , TX",48361,60-64 years ,60-64,Female,F,All other non-drug and non-alcohol causes,O9,12,346351,Unreliable
+Texas,Methadone,"Hansford County , TX",48195,35-39 years,35-39,Male,M,All other non-drug and non-alcohol causes,O9,16,47752,Unreliable
+Texas,Methadone,"Dallas County , TX",48113,20-24 years,20-24,Male,M,All other non-drug and non-alcohol causes,O9,32,596556,Unreliable
+Texas,Methadone,"Dallas County , TX",48113,25-29 years,25-29,Male,M,All other non-drug and non-alcohol causes,O9,15,632848,Unreliable
+Texas,Methadone,"Dallas County , TX",48113,30-34 years,30-34,Female,F,All other non-drug and non-alcohol causes,O9,14,573032,Unreliable
+Texas,Methadone,"Dallas County , TX",48113,30-34 years,30-34,Male,M,All other non-drug and non-alcohol causes,O9,18,578253,Unreliable
+Texas,Methadone,"Dallas County , TX",48113,35-39 years,35-39,Male,M,All other non-drug and non-alcohol causes,O9,19,531635,Unreliable
+Texas,Methadone,"Dallas County , TX",48113,40-44 years,40-44,Male,M,All other non-drug and non-alcohol causes,O9,26,514624,3.9
+Texas,Methadone,"Dallas County , TX",48113,45-49 years,45-49,Female,F,All other non-drug and non-alcohol causes,O9,34,528845,Unreliable
+Texas,Methadone,"Dallas County , TX",48113,45-49 years,45-49,Male,M,All other non-drug and non-alcohol causes,O9,18,508455,Unreliable
+Texas,Methadone,"Dallas County , TX",48113,50-54 years,50-54,Female,F,All other non-drug and non-alcohol causes,O9,15,521309,Unreliable
+Texas,Methadone,"Dallas County , TX",48113,50-54 years,50-54,Male,M,All other non-drug and non-alcohol causes,O9,22,491285,4.1
+Texas,Methadone,"Dallas County , TX",48113,55-59 years,55-59,Male,M,All other non-drug and non-alcohol causes,O9,19,444687,Unreliable
+Texas,Methadone,"Houston County , TX",48361,15-19 years,15-19,Male,M,All other non-drug and non-alcohol causes,O9,35,459068,Unreliable
+Texas,Methadone,"Houston County , TX",48361,20-24 years,20-24,Female,F,All other non-drug and non-alcohol causes,O9,16,460326,Unreliable
+Texas,Methadone,"Houston County , TX",48361,20-24 years,20-24,Male,M,All other non-drug and non-alcohol causes,O9,32,460429,8.9
+Texas,Methadone,"Houston County , TX",48361,25-29 years,25-29,Female,F,All other non-drug and non-alcohol causes,O9,20,492442,Unreliable
+Texas,Methadone,"Houston County , TX",48361,25-29 years,25-29,Male,M,All other non-drug and non-alcohol causes,O9,17,488393,8.8
+Texas,Methadone,"Houston County , TX",48361,30-34 years,30-34,Female,F,All other non-drug and non-alcohol causes,O9,22,471495,Unreliable
+Texas,Methadone,"Houston County , TX",48361,30-34 years,30-34,Male,M,All other non-drug and non-alcohol causes,O9,48,469221,6.8
+Texas,Methadone,"Houston County , TX",48361,35-39 years,35-39,Female,F,All other non-drug and non-alcohol causes,O9,16,455351,Unreliable
+Texas,Methadone,"Houston County , TX",48361,35-39 years,35-39,Male,M,All other non-drug and non-alcohol causes,O9,32,452201,6
+Texas,Methadone,"Houston County , TX",48361,40-44 years,40-44,Female,F,All other non-drug and non-alcohol causes,O9,15,456023,6.4
+Texas,Methadone,"Houston County , TX",48361,40-44 years,40-44,Male,M,All other non-drug and non-alcohol causes,O9,14,446141,6.3
+Texas,Methadone,"Houston County , TX",48361,45-49 years,45-49,Female,F,All other non-drug and non-alcohol causes,O9,18,457422,5.2
+Texas,Methadone,"Houston County , TX",48361,45-49 years,45-49,Male,M,All other non-drug and non-alcohol causes,O9,19,440576,6.6
+Texas,Methadone,"Houston County , TX",48361,50-54 years,50-54,Female,F,All other non-drug and non-alcohol causes,O9,26,444794,Unreliable
+Texas,Methadone,"Houston County , TX",48361,50-54 years,50-54,Male,M,All other non-drug and non-alcohol causes,O9,34,417664,7.2
+Texas,Methadone,"Houston County , TX",48361,55-59 years,55-59,Female,F,All other non-drug and non-alcohol causes,O9,18,407877,Unreliable
+Texas,Methadone,"Houston County , TX",48361,55-59 years,55-59,Male,M,All other non-drug and non-alcohol causes,O9,15,374297,Unreliable
